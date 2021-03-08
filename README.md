@@ -7,7 +7,7 @@ Projeto Sistema Web - Faculdade.
 
 ## Icones
 
-:package: Nova funcionalidade
-:up: Atualização
-:beatle: Correção de bugs
-:checkered_flag: Release
+- :package: Nova funcionalidade
+- :up: Atualização
+- :beetle: Correção de bugs
+- :checkered_flag: Release
